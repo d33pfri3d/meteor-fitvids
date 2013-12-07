@@ -1,0 +1,8 @@
+{
+        "name": "fitvids",
+        "description": "FitVids packaged for Meteor. FitVids automates the Intrinsic Ratio Method by Thierry Koblentz to achieve fluid width videos in your responsive web design.",
+        "homepage": "https://github.com/shaundunne/meteor-fitvids",
+        "author": "Dave Rupert",
+        "version": "1.0.2",
+        "git": "https://github.com/shaundunne/meteor-fitvids.git"
+}
